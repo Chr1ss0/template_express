@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/eslint" level="application" />
+    <orderEntry type="library" name="@types/tsc-watch" level="application" />
+    <orderEntry type="library" name="@types/prettier" level="application" />
   </component>
 </module>
